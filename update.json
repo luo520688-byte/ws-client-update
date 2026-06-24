@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/luo520688-byte/ws-client-update/releases/latest/download/WS-Client.zip",
+  "version": "0.1.2",
+  "url": "https://github.com/luo520688-byte/ws-client-update/releases/latest/download/WS-Client-0.1.2.zip",
   "sha256": "",
-  "notes": "上线在线升级功能",
+  "notes": "启动后自动检查新版本，有更新时提示客户一键升级。",
   "force": false
 }
