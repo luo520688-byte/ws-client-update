@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.4",
-    "url":  "https://github.com/luo520688-byte/ws-client-update/releases/latest/download/WS-Client-0.1.4.zip",
+    "version":  "0.1.5",
+    "url":  "https://github.com/luo520688-byte/ws-client-update/releases/latest/download/WS-Client-0.1.5.zip",
     "sha256":  "",
-    "notes":  "修复客户机 HTTPS 更新失败",
+    "notes":  "修复交付包缺少客户端入口",
     "force":  false
 }
